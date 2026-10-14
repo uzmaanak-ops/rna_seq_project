@@ -1,6 +1,6 @@
 RNA-seq analyses project
 
 Tutorial
-made atoken
+made a token
 
 to do list
